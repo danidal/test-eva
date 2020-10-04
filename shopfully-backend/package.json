@@ -1,0 +1,12 @@
+{
+  "name": "shopfully-backend",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "csv-parser": "^2.3.3"
+  },
+  "devDependencies": {
+    "serverless": "^1.78.1",
+    "serverless-offline": "^6.5.0"
+  }
+}
