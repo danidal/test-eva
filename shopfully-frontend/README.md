@@ -1,6 +1,6 @@
 # Shopfully frontend
 
-This is the fronten written for the exercise provided. It makes use of React.js and Material-UI. No external state management libraries are used.
+This is the frontend written for the exercise provided. It makes use of React.js and Material-UI. No external state management libraries are used.
 
 ## Setup
 
